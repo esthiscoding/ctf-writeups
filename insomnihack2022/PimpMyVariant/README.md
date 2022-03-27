@@ -22,7 +22,7 @@ When we visit the given challenge website, we are presented with a static webpag
 
 It is also running purely on HTTP and not HTTPS, for convenience. What we are seeing here are current covid-19 variants and potentially future variant names. These are taken from the greek alphabet, so a guess for the next variant name is "Kappa". But where shall we enter it?
 
-The site is static and has no links. A common place to look for other endpoitns is `/robots.txt`
+The site is static and has no links. A common place to look for other endpoints is `/robots.txt`
 
 ```
 GET /robots.txt HTTP/1.1
